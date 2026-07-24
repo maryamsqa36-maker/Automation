@@ -24,7 +24,11 @@
 
     <button type="submit">Send Message</button>
 
-</form>
+</form>    <button type="submit">Send Message</button>
+    <button type="submit">Send Message</button>
+    <button type="submit">Send Message</button>
+
+    
 
 </body>
 </html>
